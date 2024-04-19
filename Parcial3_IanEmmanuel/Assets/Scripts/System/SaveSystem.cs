@@ -3,23 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 
-/// <summary>
-/// SaveSystem: ahorita verifica con la instancia si no existe otro de su mismo tipo, CreateFile: es capaz de crear documentos especificando su nombre y extension,
-/// ReadFile: nos ayuda a reflejar en consola la informacion de algun archivo que hayamos creado, busca el archivo en RESOURCES
-/// JSON: nos va a ayudar a crear un grupo que podamos guardar, para su uso a futuro
-/// </summary>
 public class SaveSystem : MonoBehaviour
 {
-    //Creamos una instancia (la instancia es para referirce a un objeto ya existente, para así no tener que crear un nuevo objeto para todo)
     public static SaveSystem Instance;
 
     public Leccion data;
     public SubjectContainer subject;
 
-    /// <summary>
-    /// Patrón Singleton:
-    /// Verificará que solo haya una instancia de SaveSystem
-    /// </summary>
     private void Awake()
     {
         if (Instance != null)

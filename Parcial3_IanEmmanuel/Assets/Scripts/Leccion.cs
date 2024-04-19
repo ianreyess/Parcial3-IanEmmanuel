@@ -4,17 +4,17 @@ using UnityEngine;
 
 
 /// <summary>
-/// Aqui guardaremos la informacion de la leccion, se almacenar�n y despues se podr� hacer uso de ellos
+/// Se guarda la información, se almacena y se puede hacer uso de estas. 
 /// </summary>
 [System.Serializable]
 public class Leccion
 {
-    //Aqui guardamos el numero de leccion
+    //Se guarda el núm. de lección
     public int ID;
-    //Aqui almacenamos nuestra pregunta
+    //Se almacena la pregunta
     public string lessons;
-    //Aqui almacenamos nuestras respuestas
+    //Almacén para respuestas
     public List<string> options;
-    //aqui se almacena la respuesta correcta
+    //Respuesta correcta
     public int correctAnswer;
 }
