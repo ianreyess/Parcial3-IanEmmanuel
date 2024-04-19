@@ -1,10 +1,10 @@
 # Parcial 
 Práctica hecha para reforzar lo aprendido en programación.
 Este duolingo hecho en clases pondrá en práctica todo lo que se vió a lo largo del segundo y tercer parcial, el archivo consiste en una serie de preguntas.
+Dentro del proyecto se ve la pantalla de inicio, como en duolingo, se puede seleccionar alguna ventana y esta abrirá la lección correspondiente.
 Por cada pregunta correcta avanzará de nivel, en caso de ser errónea la pantalla se pondrá de rojo.
 ![1](https://github.com/ianreyess/Parcial3-IanEmmanuel/assets/156475427/19b64006-cb15-4ad9-8a87-3f7a309fd921)
-
-el proyecto consta de 8 scripts, en cada uno se va describiendo lo que se va haciendo para que de esta forma alguien que no ha llevado o tenido clases/cursos de programación sepa para que es cada cosa.
+El proyecto consta de 8 scripts, en cada uno se va describiendo lo que se va haciendo para que de esta forma alguien que no ha llevado o tenido clases/cursos de programación sepa para que es cada cosa.
 Los scipts son: "lección, lesson container, level manager, main, optionbtm, salir, subject, subjectcontainer"
 Así como una carpeta de resources en donde se aprecian los materiales usados.
 ![2](https://github.com/ianreyess/Parcial3-IanEmmanuel/assets/156475427/cf9f0cb3-16ec-4024-a712-986aa9547754)
