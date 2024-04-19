@@ -1,4 +1,4 @@
-# Parcial 
+# Parcial 03
 Práctica hecha para reforzar lo aprendido en programación.
 Este duolingo hecho en clases pondrá en práctica todo lo que se vió a lo largo del segundo y tercer parcial, el archivo consiste en una serie de preguntas.
 Dentro del proyecto se ve la pantalla de inicio, como en duolingo, se puede seleccionar alguna ventana y esta abrirá la lección correspondiente.
