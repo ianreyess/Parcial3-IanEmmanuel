@@ -27,8 +27,8 @@ public class SaveSystem : MonoBehaviour
     {
         //SaveToJSON("LeccionDummy", data);
 
-        //CreateFile("Luis", ".data");
-        //Debug.Log(ReadFile("Luis", ".data"));
+        //CreateFile("Pedro", ".data");
+        //Debug.Log(ReadFile("Jose", ".data"));
 
         //subject = LoadFromJSON<SubjectContainer>("SegundoCompendio");
     }
